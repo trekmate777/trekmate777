@@ -1,32 +1,30 @@
-## 👋 Hi, I'm Yevhen - Quality Engineer
+## 👋 Hi, I’m Yevhen — Senior/Lead QA  
+![Leadership / Mentor](https://img.shields.io/badge/Leadership%20%2F%20Mentor-6f42c1?style=for-the-badge&logo=account-supervisor&logoColor=white)
 
-I'm a **QA Engineer** with solid experience across **automation, performance, mobile, and infrastructure testing**.  
-My focus is **quality engineering** - building systems and processes that prevent defects early and scale with the product.
+Senior/Lead **QA** with a strong focus on **Quality Engineering**, test automation architecture, and CI/CD integration.  
+I help teams **ship faster with confidence** by building scalable automation frameworks, improving test reliability, and embedding quality early in the development lifecycle.
 
-I specialize in **designing and implementing test automation frameworks from scratch**, integrating them into CI/CD pipelines, and delivering **reliable functional and non-functional testing solutions**.
-
----
-
-## 🛠 Core Expertise
-
-### 🔹 Test Automation
-- **UI Automation:** Playwright, CodeceptJS
-- **API Automation:** Postman, SoapUI
-- **Performance Testing:** Apache JMeter
-
-### 🔹 Programming
-- **JavaScript, TypeScript**
-
-### 🔹 CI/CD & Infrastructure
-- **CI Tools:** GitLab CI, TeamCity
+Specialized in **end-to-end quality solutions**: UI, API, performance, data, and cloud-based systems.
 
 ---
 
-## 🧩 Tech Stack
+### 🧠 Core Strengths
 
-```text
-Automation     : Playwright, CodeceptJS
-API Testing    : Postman, SoapUI
-Performance    : JMeter
-Languages      : JavaScript, TypeScript
-CI/CD          : GitLab CI, TeamCity
+- Test automation architecture (from scratch)
+- CI/CD-first quality strategy
+- Functional & non-functional testing
+- Data-driven quality decisions
+- Strong collaboration with Dev, DevOps & Product
+- Mentorship
+
+---
+
+### 🧩 Tech Stack
+- #### 🧠 **Language:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)
+- #### 🤖 **UI Automation:** ![Playwright](https://img.shields.io/badge/Playwright-2ea44f?style=for-the-badge&logo=playwright&logoColor=white) ![CodeceptJS](https://img.shields.io/badge/CodeceptJS-8065d5?style=for-the-badge&logo=codeceptjs&logoColor=white)
+- #### 🔁 **API Automation:** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-f3d503?style=for-the-badge&logo=soapui&logoColor=white)
+- #### 🚀 **Performance Testing:** ![JMeter](https://img.shields.io/badge/JMeter-d22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+- #### ⚙️ **CI/CD & Infrastructure:** ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![TeamCity](https://img.shields.io/badge/TeamCity-1F6FEB?style=for-the-badge&logo=teamcity&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo%20CD-E60028?style=for-the-badge&logo=argo&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- #### 🗄 **Data & Search:** ![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge&logo=amazondynamodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)    
+- #### ☁️ **Cloud & Analytics:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/GTM-4285F4?style=for-the-badge&logo=googletagmanager&logoColor=white) ![Google Search Console](https://img.shields.io/badge/GSC-6C757D?style=for-the-badge&logo=google&logoColor=white) ![Mixpanel](https://img.shields.io/badge/Mixpanel-7B3FE4?style=for-the-badge&logo=mixpanel&logoColor=white) 
+---
