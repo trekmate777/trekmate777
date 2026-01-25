@@ -22,16 +22,6 @@ I specialize in **designing and implementing test automation frameworks from scr
 
 ---
 
-## 🚀 Areas of Interest
-
-- Quality Engineering & Shift-Left Testing
-- Test automation architecture
-- CI/CD optimization for test suites
-- Performance & system reliability
-- Reducing flaky tests and execution time
-
----
-
 ## 🧩 Tech Stack
 
 ```text
