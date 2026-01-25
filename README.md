@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi, I'm Yevhen - Quality Engineer
 
-<!--
-**trekmate777/trekmate777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **QA Engineer** with solid experience across **automation, performance, mobile, and infrastructure testing**.  
+My focus is **quality engineering** - building systems and processes that prevent defects early and scale with the product.
 
-Here are some ideas to get you started:
+I specialize in **designing and implementing test automation frameworks from scratch**, integrating them into CI/CD pipelines, and delivering **reliable functional and non-functional testing solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Core Expertise
+
+### 🔹 Test Automation
+- **UI Automation:** Playwright, CodeceptJS
+- **API Automation:** Postman, SoapUI
+- **Performance Testing:** Apache JMeter
+
+### 🔹 Programming
+- **JavaScript, TypeScript**
+
+### 🔹 CI/CD & Infrastructure
+- **CI Tools:** GitLab CI, TeamCity
+
+---
+
+## 🚀 Areas of Interest
+
+- Quality Engineering & Shift-Left Testing
+- Test automation architecture
+- CI/CD optimization for test suites
+- Performance & system reliability
+- Reducing flaky tests and execution time
+
+---
+
+## 🧩 Tech Stack
+
+```text
+Automation     : Playwright, CodeceptJS
+API Testing    : Postman, SoapUI
+Performance    : JMeter
+Languages      : JavaScript, TypeScript
+CI/CD          : GitLab CI, TeamCity
